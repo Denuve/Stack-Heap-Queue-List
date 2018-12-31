@@ -1,5 +1,5 @@
 # Stack-Heap-Queue-List
-Stack implementation;
+Stack implementation;\n
 Heap implementation;
 Queue implementation;
 List implementation;
